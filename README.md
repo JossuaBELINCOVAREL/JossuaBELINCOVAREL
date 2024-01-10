@@ -10,8 +10,8 @@ I am a Backend Developer currently working at ENEDIS in Lyon, developing innovat
 - I built an other commercial website with Wordpress.
 
 🎓 Education
-- Msc Expert en Informatique et Systèmes d'Information, EPSI Lyon (Since 2022)
-- Licence Professionnelle - Chef de projet : Logiciels Libres et Conduite de projet (2021 - 2022)
+- Msc Expert en Informatique et Systèmes d'Information, EPSI Lyon (2022 - 2024)
+- Licence Professionnelle - Chef de projet : Logiciels Libres et Conduite de projet (2019 - 2022)
 
 📫 How to reach me -> jossua007@free.fr
 
