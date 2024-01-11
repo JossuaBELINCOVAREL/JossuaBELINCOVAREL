@@ -1,4 +1,4 @@
-👋 Hey, I'm Jossua BELIN-COVAREL!
+👋 Hey, I'm Jossua BELIN-COVAREL
 
 🚀 Backend Developer | Rust Enthusiast | Passionate about Open Source
 
