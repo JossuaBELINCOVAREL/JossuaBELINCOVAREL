@@ -1,8 +1,8 @@
 👋 Hey, I'm Jossua BELIN-COVAREL
 
-🚀 Backend Developer | Rust Enthusiast | Passionate about Open Source
+🚀 Developer | Rust Enthusiast | Passionate about Open Source
 
-I am a Backend Developer currently working at ENEDIS in Lyon, developing innovative Open Source tool to manage legal compliance (Hermine). Using a variety of technologies including Rust, Ruby, RoR and Postgresql.
+I am a Developer currently working at ENEDIS in Lyon, developing innovative Open Source tool to manage legal compliance (Hermine). Using a variety of technologies including Rust, Ruby, RoR, JS, Go and Postgresql.
 
 🏗️ Past Projects
 - My own portefolio with HTML/CSS/JS.
