@@ -2,7 +2,7 @@
 
 🚀 Developer | C# Enthusiast | Passionate about Open Source
 
-I am a Developer currently working at ENEDIS in Lyon, developing innovative Open Source tool to manage legal compliance (Hermine). Using a variety of technologies including Rust, Ruby, RoR, JS, Go and Postgresql.
+I am a Developer currently working at ENEDIS in Lyon, developing innovative Open Source tool to manage legal compliance (Hermine). Using a variety of technologies including C#, Rust, Ruby, RoR, JS, Go and Postgresql.
 
 🏗️ Past Projects
 - My own portefolio with HTML/CSS/JS.
