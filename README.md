@@ -1,6 +1,6 @@
 👋 Hey, I'm Jossua BELIN-COVAREL
 
-🚀 Developer | Rust Enthusiast | Passionate about Open Source
+🚀 Developer | C# Enthusiast | Passionate about Open Source
 
 I am a Developer currently working at ENEDIS in Lyon, developing innovative Open Source tool to manage legal compliance (Hermine). Using a variety of technologies including Rust, Ruby, RoR, JS, Go and Postgresql.
 
@@ -22,3 +22,4 @@ I'm always eager to learn more and am open to new opportunities, so feel free to
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
