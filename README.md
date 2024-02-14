@@ -14,7 +14,8 @@ I am a Developer currently working at ENEDIS in Lyon, developing innovative Open
 - Licence Professionnelle - Chef de projet : Logiciels Libres et Conduite de projet (2019 - 2022)
 
 🏅 Soft Skills
-Agility / SCRUM / Lean / Adaptability / Problem Solving / Collaboration
+
+Agility | SCRUM | Lean | Adaptability | Problem Solving | Collaboration
 
 📫 How to reach me -> jossua007@free.fr
 
