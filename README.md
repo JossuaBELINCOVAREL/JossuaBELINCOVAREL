@@ -19,6 +19,6 @@ I am a Developer currently working at ENEDIS in Lyon, developing innovative Open
 
 Agility | SCRUM | Lean | Creativity | Problem Solving | Collaboration
 
-📫 How to reach me -> jossua007@free.fr
+📫 How to reach me -> XXX
 
 I'm always eager to learn more and am open to new opportunities, so feel free to reach out if you have any questions !
