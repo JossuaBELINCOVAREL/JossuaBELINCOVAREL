@@ -6,10 +6,13 @@ I am a Developer currently working at ENEDIS in Lyon, developing innovative Open
 
 🏗️ Past Projects
 - Quiz app' with Python.
+- Application Coffee Break with Python/Django.
 - Poker tool with C#.
-- My own portefolio with HTML/CSS/JS.
+- Poker website (like chess.com) with Python/Django.
+- My own portefolio with Python/Django.
 - I built a commercial website powered with Drupal.
 - I built an other commercial website with Wordpress.
+- ...
 
 🎓 Education
 - Msc Expert en Informatique et Systèmes d'Information, EPSI Lyon (2022 - 2024)
