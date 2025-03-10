@@ -2,7 +2,8 @@
 
 🚀 Python Enthusiast | Passionate about Open Source
 
-I am a Developer currently working at ENEDIS in Lyon, developing innovative Open Source tool to manage legal compliance (Hermine). Using a variety of technologies including Python, Django, C#, etc.
+I am a Developer in Lyon.
+I use a variety of technologies including Python, Django, C#, etc.
 
 🏗️ Past Projects
 - Quiz app' with Python.
