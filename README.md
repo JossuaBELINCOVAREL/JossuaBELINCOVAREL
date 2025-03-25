@@ -3,11 +3,12 @@
 🚀 Python Enthusiast | Passionate about Open Source
 
 I am a Developer in Lyon.
-I use a variety of technologies including Python, Django, C#, etc.
+I use a variety of technologies including Python, Django, React, etc.
 
 🏗️ Past Projects
 - Quiz app' with Python.
 - Application Coffee Break with Python/Django.
+- Differents games with Pygame.
 - Poker tool with C#.
 - Poker website (like chess.com) with Python/Django.
 - My own portefolio with Python/Django.
