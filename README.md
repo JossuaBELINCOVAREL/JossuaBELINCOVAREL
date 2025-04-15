@@ -2,7 +2,7 @@
 
 🚀 Python Enthusiast | Passionate about Open Source
 
-I am a Developer in Lyon.
+I am a Business Analyst in Lyon.
 I use a variety of technologies including Python, Django, React, etc.
 
 🏗️ Past Projects
@@ -25,5 +25,3 @@ I use a variety of technologies including Python, Django, React, etc.
 Agility | SCRUM | Lean | Creativity | Problem Solving | Collaboration
 
 📫 How to reach me -> XXX
-
-I'm always eager to learn more and am open to new opportunities, so feel free to reach out if you have any questions !
