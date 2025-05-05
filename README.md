@@ -2,16 +2,15 @@
 
 🚀 Python Enthusiast | Passionate about Open Source
 
-I am a Business Analyst in Lyon.
-I use a variety of technologies including Python, Django, React, etc.
+I am a Computer Engineer in Lyon.
+I use a variety of technologies including Python, Django, SQL, etc.
 
 🏗️ Past Projects
-- Quiz app' with Python.
 - Application Coffee Break with Python/Django.
 - Differents games with Pygame.
 - Poker tool with C#.
 - Poker website (like chess.com) with Python/Django.
-- My own portefolio with Python/Django.
+- My own portefolio.
 - I built a commercial website powered with Drupal.
 - I built an other commercial website with Wordpress.
 - ...
